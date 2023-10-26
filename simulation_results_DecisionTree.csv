@@ -1,0 +1,2 @@
+mse,rmse,r2,params
+0.007330178706228167,0.0856164628224512,0.9049632737765816,"{'max_depth': 12, 'min_samples_split': 2, 'min_samples_leaf': 1}"
